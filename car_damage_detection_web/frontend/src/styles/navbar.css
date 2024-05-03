@@ -1,0 +1,40 @@
+/* YourComponent.css */
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.car-snap-container {
+    margin-left: 20px;
+    /* Adjust the margin as needed */
+}
+
+.car-snap-text {
+    margin: 0;
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}
+
+.car-snap-heading {
+    font-size: 80px;
+    font-weight: 900;
+    width: 100%;
+    text-align: center;
+    margin: 0%;
+}
+
+.line {
+    width: 100%;
+    height: 2px;
+    background-color: black;
+    /* Choose your line color */
+}
+
+.car-snap-container-head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* Set maximum width to fit the content */
+    /* Add this line to horizontally center */
+}
